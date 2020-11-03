@@ -1,0 +1,1 @@
+This is another new test file made using vim, and located inside the test directory
